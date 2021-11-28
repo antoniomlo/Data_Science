@@ -7,7 +7,7 @@
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
 ## Projetos:
-![image]({https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white})
+<img src= 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
 Lista de projetos em Jupyter Notebook:
 
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/2Qr7Nai
