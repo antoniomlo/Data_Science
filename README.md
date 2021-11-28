@@ -6,14 +6,6 @@
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
-### Sobre mim:
-
-Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
-
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
 
 ## Projetos:
 <img src= 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
@@ -28,6 +20,14 @@ Lista de projetos em Jupyter Notebook:
 
 ---
 
+### Sobre mim:
+
+Olá, me chamo Antonio Melo e faço Bacharelado em Ciêcias e Tecnologias na Universidade Federal do Rio Grande do Norte(UFRN), em Natal-RN. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
+
+* Graduação em Ciências Aeronáuticas pela AFA.
+* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
+* MBA em Gestão de Projetos e Processos pela UNIFA.
+* Curso de Operações Espaciais pela Força Aérea do Canadá.
 
 
 
