@@ -30,6 +30,17 @@ Lista de projetos de Webdesign:
 
 ---
 
+Lista de projetos de Dashboard no Power BI:
+
+* **Projeto 1** 
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white></a>
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+* **Projeto 2** 
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
+"></a>
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white></a>
+---
+
 ### Sobre mim:
 
 Olá,
