@@ -37,7 +37,7 @@ Lista de projetos de Webdesign:
 Olá, me chamo Antonio Melo e faço Bacharelado em Ciêcias e Tecnologias na Universidade Federal do Rio Grande do Norte(UFRN), em Natal-RN. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
 
 * Graduando em Ciências e Tecnologias na UFRN.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
+* Desenvolvimento Web.
 * MBA em Gestão de Projetos e Processos pela UNIFA.
 * Curso de Operações Espaciais pela Força Aérea do Canadá.
 
