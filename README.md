@@ -18,7 +18,7 @@ Me chamo Antonio Melo, bacharelando em Engenharia da Computação na Universidad
 * Análise de Dados;
 * Dashboards;
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI e projetos de Webdesign em HTML e CSS. Para Acessar os projetos, basta apertar nos icones ao lado.
+Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI e projetos de Webdesign em HTML e CSS. Para acessar os projetos, basta apertar nos icones ao lado.
 
 <a href="#"><b>Portfólio</b></a>
 
