@@ -47,7 +47,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 ## Dashboard:
 
 
-<P><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>* **Projeto 1** </P>
+<p><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>  <b> Projeto 1</b> </p>
 
 
 * **Projeto 2** 
