@@ -1,5 +1,7 @@
 <a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href='https://www.fiverr.com/users/antonio26_/seller_dashboard'><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white"></a> [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+<a href='https://www.fiverr.com/users/antonio26_/seller_dashboard'><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white"></a> 
+<a href='https://medium.com/@antoniomlo'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
   <img src="/img/DATA SCIENCE (1).png" >
