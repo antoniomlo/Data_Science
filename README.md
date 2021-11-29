@@ -1,7 +1,7 @@
 <a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href='https://www.fiverr.com/users/antonio26_/seller_dashboard'><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white"></a> 
-<a href='https://medium.com/@antoniomlo'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+<a href='medium.com/@antoniomlo'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href='github.com/antoniomlo'><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
 
 <p align="center">
   <img src="/img/DATA SCIENCE (1).png" >
@@ -15,9 +15,6 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb para Lisboa:** <a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a>
-
-
-* **Análise dos Dados do Airbnb para Lisboa:** https://bit.ly/2oBxmeK
 
 ---
 
@@ -34,13 +31,15 @@ Lista de projetos de Webdesign:
 
 ### Sobre mim:
 
-Olá, me chamo Antonio Melo e faço Bacharelado em Ciêcias e Tecnologias na Universidade Federal do Rio Grande do Norte(UFRN), em Natal-RN. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
+Olá,
+Me chamo Antonio Melo, estudante de Ciências e Tecnologias na Universidade Federal do Rio Grande do Norte (UFRN) e faço serviços de freelance na plataforma Fiverr.
 
-* Graduando em Ciências e Tecnologias na UFRN.
-* Desenvolvimento Web.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
+** Algumas das minhas competências:**
 
+* Graduando em Ciências e Tecnologias na UFRN;
+* Desenvolvimento Web;
+* Análise de Dados;
+* Criação de Dashboards;
 
 
 
