@@ -15,13 +15,14 @@ Lista de projetos em Jupyter Notebook:
 * **Análise dos Dados do Airbnb para Lisboa:** <a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
 
 
-* https://bit.ly/2oBxmeK
+** **Análise dos Dados do Airbnb para Lisboa:** https://bit.ly/2oBxmeK
 
 ---
 
 <p><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a></p>
 <p>Portifólio de Websites:</p>
+
 Lista de projetos de Webdesign:
 
 * **Projeto 1**
