@@ -14,12 +14,12 @@ Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/2oBxmeK
 
----
+--
 
 <p><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a></p>
 <p>Portifólio de Websites:</p>
-Você pode apertar nesse link ou ver os projetos específicos abaixo:
+Lista de projetos de Webdesign:
 
 * **Projeto 1**
 * **Projeto 2** 
@@ -30,7 +30,7 @@ Você pode apertar nesse link ou ver os projetos específicos abaixo:
 
 Olá, me chamo Antonio Melo e faço Bacharelado em Ciêcias e Tecnologias na Universidade Federal do Rio Grande do Norte(UFRN), em Natal-RN. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
 
-* Graduação em Ciências Aeronáuticas pela AFA.
+* Graduando em Ciências e Tecnologias na UFRN.
 * Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
 * MBA em Gestão de Projetos e Processos pela UNIFA.
 * Curso de Operações Espaciais pela Força Aérea do Canadá.
