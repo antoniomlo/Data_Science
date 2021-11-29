@@ -51,7 +51,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 
 
-<p><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a><h2>Projeto 2<h2></p>
+<h2><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>Projeto 2<h2>
 
 
 
