@@ -27,7 +27,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 ### Lista de projetos em Python:
 
 * **Análise dos Dados do Airbnb para Lisboa:** 
-<p><a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img padding-left= "50px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a></p>
+<p><a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a></p>
 
 ---
 
@@ -47,7 +47,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 ## Dashboard:
 
 
-<h3><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img max-width="10px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>     Projeto 1<h3>
+<h3><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>     Projeto 1<h3>
 
 
 
