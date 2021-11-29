@@ -41,7 +41,7 @@ Lista de projetos de Dashboard no Power BI:
 
 ---
 
-### Sobre mim:
+## Sobre mim:
 
 Olá,
 Me chamo Antonio Melo, estudante de Ciências e Tecnologias na Universidade Federal do Rio Grande do Norte (UFRN) e faço serviços de freelance na plataforma Fiverr.
