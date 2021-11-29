@@ -18,30 +18,31 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 ### Lista de projetos em Python:
 
-<p><a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a>* **Análise dos Dados do Airbnb para Lisboa:** </p>
+* **Análise dos Dados do Airbnb para Lisboa:** 
+<p><a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a></p>
 
 ---
 
 ### Lista de projetos de Webdesign:
 
+* **Projeto 1** 
 <p><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-* **Projeto 1** </p>
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a></p>
 
+* **Projeto 2** 
 <p><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-* **Projeto 2** </p>
+ </p>
 
 ---
 
 ### Lista de projetos de Dashboard:
 
-<a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 * **Projeto 1** 
+<p><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a></p>
 
-<a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 * **Projeto 2** 
-
+<p><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a></p>
 ---
 
 # Sobre mim:
