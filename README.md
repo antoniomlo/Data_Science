@@ -6,8 +6,9 @@
 <p align="center">
   <img src="/img/DATA SCIENCE (1).png" >
 </p>
-# Paulo Victor
-<sub>*Ciencia de dados e Engenharia de Produção*</sub>
+
+# Antonio Melo
+<sub>*Ciencia de dados e Engenharia da Computação*</sub>
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI e projetos de Webdesign em HTML e CSS. Para Acessar os projetos, basta apertar nos icones ao lado.
 
@@ -46,7 +47,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 # Sobre mim:
 
 Olá,
-Me chamo Antonio Melo, estudante de Ciências e Tecnologias na Universidade Federal do Rio Grande do Norte (UFRN) e faço serviços de freelance na plataforma Fiverr.
+Me chamo Antonio Melo, estudante de Engenharia da Computação na Universidade Federal do Rio Grande do Norte (UFRN) e faço serviços de freelance na plataforma Fiverr.
 
 ### **Algumas das minhas competências:**
 
