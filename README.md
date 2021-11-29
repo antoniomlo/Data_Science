@@ -30,20 +30,20 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 ## Projetos Webdesign:
 
-<h3><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "35px" width="80px"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "35px" width="80px"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>     Projeto 1<h3>
+<h3><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "25px" width="80px"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "25px" width="80px"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>     Projeto 1<h3>
 
 
-<h3><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "35px" width="80px"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "35px" width="80px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>     Projeto 2<h3>
+<h3><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "25px" width="80px"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img height= "25px" width="80px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>     Projeto 2<h3>
 
 ---
 
 ## Dashboard:
 
-<h3><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img height= "35px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>     Projeto 1<h3>
+<h3><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img height= "25px" width="80px" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>     Projeto 1<h3>
 
-<h3><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img height= "35px" width="80px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>     Projeto 2<h3>
+<h3><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img height= "25px" width="80px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>     Projeto 2<h3>
 
 
 
