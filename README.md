@@ -14,7 +14,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 <p>Portfólio</p>
 
-# Projetos:
+## Projetos:
 
 ### Lista de projetos em Python:
 
@@ -46,7 +46,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 ---
 
-# Sobre mim:
+## Sobre mim:
 
 Olá,
 Me chamo Antonio Melo, estudante de Engenharia da Computação na Universidade Federal do Rio Grande do Norte (UFRN) e faço serviços de freelance na plataforma Fiverr.
