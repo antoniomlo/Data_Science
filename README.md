@@ -12,7 +12,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 <p><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a></p>
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/2oBxmeK
+* **Análise dos Dados do Airbnb para Lisboa:** https://bit.ly/2oBxmeK
 
 ---
 
