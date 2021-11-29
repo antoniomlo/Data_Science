@@ -15,7 +15,7 @@ Lista de projetos em Jupyter Notebook:
 * **Análise dos Dados do Airbnb para Lisboa:** <a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
 
 
-** **Análise dos Dados do Airbnb para Lisboa:** https://bit.ly/2oBxmeK
+* **Análise dos Dados do Airbnb para Lisboa:** https://bit.ly/2oBxmeK
 
 ---
 
