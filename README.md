@@ -14,13 +14,16 @@ Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/2oBxmeK
 
+---
+
 <p><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a></p>
-Portifólio de Websites:
-Você pode apertar nesse link ou ver os projetos espcíficos abaixo:
+<p>Portifólio de Websites:</p>
+Você pode apertar nesse link ou ver os projetos específicos abaixo:
 
 * **Projeto 1**
 * **Projeto 2** 
+
 ---
 
 ### Sobre mim:
