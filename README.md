@@ -14,7 +14,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 <p>Portfólio</p>
 
-## Projetos:
+## Projetos em Python:
 
 ### Lista de projetos em Python:
 
@@ -23,7 +23,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 ---
 
-### Lista de projetos de Webdesign:
+## Projetos Webdesign:
 
 * **Projeto 1** 
 <p><a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -36,7 +36,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 ---
 
-### Lista de projetos de Dashboard:
+## Dashboard:
 
 * **Projeto 1** 
 <p><a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a></p>
