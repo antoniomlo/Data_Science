@@ -11,15 +11,15 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 <p>Portfólio</p>
 
-## Projetos:
+# Projetos:
 
-Lista de projetos em Jupyter Notebook:
+### Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb para Lisboa:** <a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a>
 
 ---
 
-# Lista de projetos de Webdesign:
+### Lista de projetos de Webdesign:
 
 * **Projeto 1** 
 <a href='https://www.linkedin.com/in/antonio-melo-6b3927201/'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -30,7 +30,7 @@ Lista de projetos em Jupyter Notebook:
 
 ---
 
-Lista de projetos de Dashboard no Power BI:
+### Lista de projetos de Dashboard no Power BI:
 
 * **Projeto 1** 
 <a href="https://www.linkedin.com/in/antonio-melo-6b3927201/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
@@ -41,12 +41,12 @@ Lista de projetos de Dashboard no Power BI:
 
 ---
 
-## Sobre mim:
+# Sobre mim:
 
 Olá,
 Me chamo Antonio Melo, estudante de Ciências e Tecnologias na Universidade Federal do Rio Grande do Norte (UFRN) e faço serviços de freelance na plataforma Fiverr.
 
-**Algumas das minhas competências:**
+### **Algumas das minhas competências:**
 
 * Graduando em Ciências e Tecnologias na UFRN;
 * Desenvolvimento Web;
