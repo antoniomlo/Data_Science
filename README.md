@@ -7,7 +7,7 @@
   <img src="/img/DATA SCIENCE (1).png" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI e projetos de Webdesign em HTML e CSS.
+Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI e projetos de Webdesign em HTML e CSS. Para Acessar os projetos, basta apertar nos icones ao lado.
 
 <p>Portfólio</p>
 
