@@ -12,7 +12,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 Lista de projetos em Jupyter Notebook:
 
-<p>* **Análise dos Dados do Airbnb para Lisboa:** <a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a></p>
+* <p>**Análise dos Dados do Airbnb para Lisboa:** <a href='https://github.com/antoniomelo26/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a></p>
 
 
 * https://bit.ly/2oBxmeK
