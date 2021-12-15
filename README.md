@@ -4,7 +4,7 @@
 <a href='https://github.com/antoniomlo'><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <p align="center">
-  <img src="/img/DATA SCIENCE (1).png" >
+  <img src="/img/DATA SCIENCE.png" >
 </p>
 
 # Antonio Melo
