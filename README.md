@@ -25,6 +25,8 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 ## Projetos em Python:
 
 <h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a>     Análise dos Dados do Airbnb - Lisboa<h3>
+  
+<h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_Dados_da_Empresa_Supermercado.ipynb'><img height= "23px" width="80px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a>     Analisando Dados da Empresa - Supermercados<h3>
 
   ---
 
