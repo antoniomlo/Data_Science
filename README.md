@@ -18,6 +18,7 @@ Me chamo Antonio Melo, bacharelando em Engenharia da Computação na Universidad
 * Desenvolvimento Web - Frontend;
 * Análise de Dados;
 * Power BI Dashboards;
+* UI/UX Design;
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI. Para acessar os projetos, basta apertar nos icones ao lado.
 
