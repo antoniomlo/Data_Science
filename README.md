@@ -22,7 +22,7 @@ Me chamo Antonio Melo, bacharelando em Engenharia da Computação na Universidad
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI. Para acessar os projetos, basta apertar nos icones ao lado.
 
 ---
-## Projetos 
+## Análise de Dados 
 
 <h3><a href='https://github.com/antoniomlo/Arquivos-Nuvem/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href="https://medium.com/@antoniomlo/panorama-covid-19-96de18f678a1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a>     Análise de Dados - Panorama Covid-19<h3>
   
@@ -30,7 +30,12 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 
 <h3><a href='https://github.com/antoniomlo/Data_Science/blob/main/Analisando_os_Dados_do_Airbnb_Lisboa.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href="https://medium.com/@antoniomlo/an%C3%A1lise-de-dados-airbnb-lisboa-7f1954598ded"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a>     Análise de Dados - Airbnb Lisboa<h3>
   
+---
+## Dashboards
 
-
+<h3><a href='https://app.powerbi.com/view?r=eyJrIjoiYmVjY2EwZGUtNTZlYy00NzY5LWIwMjktMWUyZDA4NjdjYzI0IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection'><img height= "23px" width="70px"src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>     Dashboard - Recursos Humanos<h3>
+  
+<h3><a href='https://app.powerbi.com/view?r=eyJrIjoiNTRlNWM0NDItZDQzYy00Njg0LWFiYWItM2NhZWQwMzVlODdkIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection01a69d7778aaef8806d7
+'><img height= "23px" width="70px"src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>    Dashboard - Vendas<h3>
 
 
