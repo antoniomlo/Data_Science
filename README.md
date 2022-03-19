@@ -34,7 +34,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, a
 ---
 ## Dashboards
 
-<h3><a href='https://app.powerbi.com/view?r=eyJrIjoiMjI5MmUwYjktNDI1NS00MWRlLWFhNDAtYWRiYmViNmYzNGM0IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9'><img height= "23px" width="70px"src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>     Dashboard - Recursos Humanos<h3>
+<h3><a href='https://app.powerbi.com/view?r=eyJrIjoiMjI5MmUwYjktNDI1NS00MWRlLWFhNDAtYWRiYmViNmYzNGM0IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection970bae9a2b7be2b90316'><img height= "23px" width="70px"src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>     Dashboard - Recursos Humanos<h3>
   
 <h3><a href='https://app.powerbi.com/view?r=eyJrIjoiNTRlNWM0NDItZDQzYy00Njg0LWFiYWItM2NhZWQwMzVlODdkIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9&pageName=ReportSection01a69d7778aaef8806d7
 '><img height= "23px" width="70px"src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>    Dashboard - Vendas<h3>
